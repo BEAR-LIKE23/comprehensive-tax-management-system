@@ -1,0 +1,5 @@
+{
+  "name": "Comprehensive Tax Management System",
+  "description": "A full-featured tax collection and management system with role-based access for Taxpayers, Revenue Officers, and Administrators. Features include tax assessment, document management, payment simulation, and data analytics.",
+  "requestFramePermissions": []
+}
