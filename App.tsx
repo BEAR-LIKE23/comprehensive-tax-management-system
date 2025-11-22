@@ -37,7 +37,7 @@ const App: React.FC = () => {
   const [currentUser, setCurrentUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(true);
   const [currentView, setCurrentView] = useState('Dashboard');
-  const [session, setSession] = useState<any | null>(null);
+  const [, setSession] = useState<any | null>(null);
   const [showLanding, setShowLanding] = useState(true); // New state for landing page
   const { showToast } = useToast();
 
